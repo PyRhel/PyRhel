@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PyRhel
+- 👀 I’m interested in C/CPP/Python
+- 🌱 I’m currently learning New technologies
